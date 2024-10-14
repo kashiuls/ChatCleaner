@@ -1,0 +1,16 @@
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\bin\Debug\ChatCleaner.dll
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\bin\Debug\ChatCleaner.pdb
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\bin\Debug\Assembly-CSharp.dll
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\bin\Debug\Rocket.API.dll
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\bin\Debug\Rocket.Core.dll
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\bin\Debug\Rocket.Unturned.dll
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\bin\Debug\UnityEngine.dll
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\obj\Debug\ChatCleaner.csproj.AssemblyReference.cache
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\obj\Debug\ChatCleaner.csproj.CoreCompileInputs.cache
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\obj\Debug\ChatClea.2DFB0358.Up2Date
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\obj\Debug\ChatCleaner.dll
+C:\Users\kashi\source\repos\ChatCleaner\ChatCleaner\obj\Debug\ChatCleaner.pdb
